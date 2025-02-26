@@ -29,3 +29,5 @@
 0:0:0:0:0:0:0:1 - - [26/Feb/2025:10:19:13 +0000] "GET /DoctorRV_New/Register-Patient.jsp HTTP/1.1" 200 2690
 0:0:0:0:0:0:0:1 - - [26/Feb/2025:10:19:17 +0000] "GET /DoctorRV_New/Register-Patient.jsp HTTP/1.1" 200 2690
 0:0:0:0:0:0:0:1 - - [26/Feb/2025:10:19:24 +0000] "GET /DoctorRV_New/Home.jsp HTTP/1.1" 200 1496
+0:0:0:0:0:0:0:1 - - [26/Feb/2025:10:28:32 +0000] "GET /DoctorRV_New HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [26/Feb/2025:10:28:32 +0000] "GET /DoctorRV_New/ HTTP/1.1" 404 691
