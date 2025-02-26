@@ -549,3 +549,1207 @@
 26-Feb-2025 10:28:29.525 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DoctorRV_New]
 26-Feb-2025 10:28:29.534 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
 26-Feb-2025 10:28:29.563 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [29] ms
+26-Feb-2025 12:19:06.526 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 12:19:06.538 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Feb-2025 12:19:06.539 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 12:19:06.559 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Feb-2025 12:19:06.583 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 12:19:06.605 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 12:19:06.630 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 12:19:06.638 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 14:35:21.192 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.36
+26-Feb-2025 14:35:21.198 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 13 2025 13:13:30 UTC
+26-Feb-2025 14:35:21.199 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.36.0
+26-Feb-2025 14:35:21.200 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+26-Feb-2025 14:35:21.200 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+26-Feb-2025 14:35:21.200 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Feb-2025 14:35:21.201 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-23
+26-Feb-2025 14:35:21.201 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.1+11-39
+26-Feb-2025 14:35:21.201 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Feb-2025 14:35:21.201 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 14:35:21.201 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 14:35:21.212 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+26-Feb-2025 14:35:21.212 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+26-Feb-2025 14:35:21.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+26-Feb-2025 14:35:21.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+26-Feb-2025 14:35:21.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+26-Feb-2025 14:35:21.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 14:35:21.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 14:35:21.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\temp
+26-Feb-2025 14:35:21.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\logging.properties
+26-Feb-2025 14:35:21.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2025 14:35:21.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\lib\idea_rt.jar=50011:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin
+26-Feb-2025 14:35:21.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+26-Feb-2025 14:35:21.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+26-Feb-2025 14:35:21.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+26-Feb-2025 14:35:21.221 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-23\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-23\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ENAA\AppData\Local\Microsoft\WindowsApps;C:\Users\ENAA\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.1\bin;;.]
+26-Feb-2025 14:35:21.596 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 14:35:21.616 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [671] milliseconds
+26-Feb-2025 14:35:21.679 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2025 14:35:21.679 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.36]
+26-Feb-2025 14:35:21.696 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 14:35:22.043 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [346] ms
+26-Feb-2025 14:35:22.048 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 14:35:22.073 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [456] milliseconds
+26-Feb-2025 14:35:50.040 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 14:35:50.046 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Feb-2025 14:35:50.059 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 14:35:50.071 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 14:35:52.647 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.36
+26-Feb-2025 14:35:52.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 13 2025 13:13:30 UTC
+26-Feb-2025 14:35:52.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.36.0
+26-Feb-2025 14:35:52.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+26-Feb-2025 14:35:52.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+26-Feb-2025 14:35:52.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Feb-2025 14:35:52.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-23
+26-Feb-2025 14:35:52.654 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.1+11-39
+26-Feb-2025 14:35:52.654 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Feb-2025 14:35:52.654 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 14:35:52.654 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 14:35:52.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+26-Feb-2025 14:35:52.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+26-Feb-2025 14:35:52.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+26-Feb-2025 14:35:52.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+26-Feb-2025 14:35:52.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+26-Feb-2025 14:35:52.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 14:35:52.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 14:35:52.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\temp
+26-Feb-2025 14:35:52.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\logging.properties
+26-Feb-2025 14:35:52.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2025 14:35:52.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\lib\idea_rt.jar=50045:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin
+26-Feb-2025 14:35:52.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+26-Feb-2025 14:35:52.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+26-Feb-2025 14:35:52.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+26-Feb-2025 14:35:52.672 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-23\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-23\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ENAA\AppData\Local\Microsoft\WindowsApps;C:\Users\ENAA\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.1\bin;;.]
+26-Feb-2025 14:35:52.994 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 14:35:53.012 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [565] milliseconds
+26-Feb-2025 14:35:53.085 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2025 14:35:53.086 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.36]
+26-Feb-2025 14:35:53.102 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 14:35:53.443 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [340] ms
+26-Feb-2025 14:35:53.448 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 14:35:53.465 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [450] milliseconds
+26-Feb-2025 14:35:59.886 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.98
+26-Feb-2025 14:35:59.889 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 5 2024 19:50:29 UTC
+26-Feb-2025 14:35:59.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.98.0
+26-Feb-2025 14:35:59.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+26-Feb-2025 14:35:59.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+26-Feb-2025 14:35:59.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Feb-2025 14:35:59.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-23
+26-Feb-2025 14:35:59.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.1+11-39
+26-Feb-2025 14:35:59.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Feb-2025 14:35:59.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 14:35:59.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 9.0
+26-Feb-2025 14:35:59.901 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+26-Feb-2025 14:35:59.901 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+26-Feb-2025 14:35:59.901 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+26-Feb-2025 14:35:59.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+26-Feb-2025 14:35:59.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+26-Feb-2025 14:35:59.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 9.0
+26-Feb-2025 14:35:59.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 14:35:59.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\temp
+26-Feb-2025 14:35:59.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\logging.properties
+26-Feb-2025 14:35:59.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2025 14:35:59.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\lib\idea_rt.jar=50061:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin
+26-Feb-2025 14:35:59.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+26-Feb-2025 14:35:59.903 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+26-Feb-2025 14:35:59.903 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+26-Feb-2025 14:35:59.909 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.1] using APR version [1.7.4].
+26-Feb-2025 14:35:59.909 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+26-Feb-2025 14:35:59.909 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+26-Feb-2025 14:35:59.915 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+26-Feb-2025 14:36:00.340 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 14:36:00.356 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [701] milliseconds
+26-Feb-2025 14:36:00.407 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2025 14:36:00.408 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.98]
+26-Feb-2025 14:36:00.415 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 14:36:00.507 WARNING [main] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [6.0]. Default version will be used.
+26-Feb-2025 14:36:00.772 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [357] ms
+26-Feb-2025 14:36:00.775 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 14:36:00.794 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [437] milliseconds
+26-Feb-2025 14:36:03.463 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DoctorRV_New]
+26-Feb-2025 14:36:03.480 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 14:36:03.508 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [28] ms
+26-Feb-2025 14:41:25.320 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 14:41:25.325 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Feb-2025 14:41:25.334 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 14:41:25.337 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 14:41:27.186 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.98
+26-Feb-2025 14:41:27.191 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 5 2024 19:50:29 UTC
+26-Feb-2025 14:41:27.192 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.98.0
+26-Feb-2025 14:41:27.192 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+26-Feb-2025 14:41:27.192 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+26-Feb-2025 14:41:27.192 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Feb-2025 14:41:27.192 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-23
+26-Feb-2025 14:41:27.192 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.1+11-39
+26-Feb-2025 14:41:27.192 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Feb-2025 14:41:27.193 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 14:41:27.193 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 9.0
+26-Feb-2025 14:41:27.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+26-Feb-2025 14:41:27.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+26-Feb-2025 14:41:27.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+26-Feb-2025 14:41:27.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+26-Feb-2025 14:41:27.204 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+26-Feb-2025 14:41:27.204 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 9.0
+26-Feb-2025 14:41:27.204 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 14:41:27.204 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\temp
+26-Feb-2025 14:41:27.204 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\logging.properties
+26-Feb-2025 14:41:27.204 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2025 14:41:27.204 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\lib\idea_rt.jar=50285:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin
+26-Feb-2025 14:41:27.205 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+26-Feb-2025 14:41:27.205 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+26-Feb-2025 14:41:27.205 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+26-Feb-2025 14:41:27.210 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.1] using APR version [1.7.4].
+26-Feb-2025 14:41:27.210 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+26-Feb-2025 14:41:27.210 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+26-Feb-2025 14:41:27.218 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+26-Feb-2025 14:41:27.687 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 14:41:27.704 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [736] milliseconds
+26-Feb-2025 14:41:27.767 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2025 14:41:27.767 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.98]
+26-Feb-2025 14:41:27.781 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 14:41:27.892 WARNING [main] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [6.0]. Default version will be used.
+26-Feb-2025 14:41:28.121 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [339] ms
+26-Feb-2025 14:41:28.126 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 14:41:28.145 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [439] milliseconds
+26-Feb-2025 14:41:33.860 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DoctorRV_New]
+26-Feb-2025 14:41:33.870 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 14:41:33.898 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [27] ms
+26-Feb-2025 14:41:35.114 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 14:41:35.118 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 14:41:35.125 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Feb-2025 14:41:35.127 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Feb-2025 14:41:35.129 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 14:41:35.134 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 14:41:35.138 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 14:41:35.141 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 14:42:09.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.98
+26-Feb-2025 14:42:09.758 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 5 2024 19:50:29 UTC
+26-Feb-2025 14:42:09.758 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.98.0
+26-Feb-2025 14:42:09.758 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+26-Feb-2025 14:42:09.758 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+26-Feb-2025 14:42:09.758 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Feb-2025 14:42:09.758 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-23
+26-Feb-2025 14:42:09.758 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.1+11-39
+26-Feb-2025 14:42:09.759 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Feb-2025 14:42:09.759 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 14:42:09.759 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 9.0
+26-Feb-2025 14:42:09.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+26-Feb-2025 14:42:09.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+26-Feb-2025 14:42:09.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+26-Feb-2025 14:42:09.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+26-Feb-2025 14:42:09.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+26-Feb-2025 14:42:09.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 9.0
+26-Feb-2025 14:42:09.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 14:42:09.769 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\temp
+26-Feb-2025 14:42:09.769 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\logging.properties
+26-Feb-2025 14:42:09.769 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2025 14:42:09.769 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\lib\idea_rt.jar=50310:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin
+26-Feb-2025 14:42:09.769 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+26-Feb-2025 14:42:09.770 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+26-Feb-2025 14:42:09.770 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+26-Feb-2025 14:42:09.775 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.1] using APR version [1.7.4].
+26-Feb-2025 14:42:09.775 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+26-Feb-2025 14:42:09.775 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+26-Feb-2025 14:42:09.783 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+26-Feb-2025 14:42:10.271 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 14:42:10.286 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [733] milliseconds
+26-Feb-2025 14:42:10.346 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2025 14:42:10.346 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.98]
+26-Feb-2025 14:42:10.360 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 14:42:10.473 WARNING [main] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [6.0]. Default version will be used.
+26-Feb-2025 14:42:10.686 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [326] ms
+26-Feb-2025 14:42:10.693 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 14:42:10.715 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [427] milliseconds
+26-Feb-2025 14:42:27.621 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.36
+26-Feb-2025 14:42:27.625 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 13 2025 13:13:30 UTC
+26-Feb-2025 14:42:27.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.36.0
+26-Feb-2025 14:42:27.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+26-Feb-2025 14:42:27.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+26-Feb-2025 14:42:27.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Feb-2025 14:42:27.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-23
+26-Feb-2025 14:42:27.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.1+11-39
+26-Feb-2025 14:42:27.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Feb-2025 14:42:27.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 14:42:27.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 14:42:27.635 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+26-Feb-2025 14:42:27.635 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+26-Feb-2025 14:42:27.635 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+26-Feb-2025 14:42:27.635 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+26-Feb-2025 14:42:27.635 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+26-Feb-2025 14:42:27.635 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 14:42:27.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 14:42:27.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\temp
+26-Feb-2025 14:42:27.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\logging.properties
+26-Feb-2025 14:42:27.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2025 14:42:27.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\lib\idea_rt.jar=50316:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin
+26-Feb-2025 14:42:27.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+26-Feb-2025 14:42:27.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+26-Feb-2025 14:42:27.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+26-Feb-2025 14:42:27.641 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-23\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-23\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ENAA\AppData\Local\Microsoft\WindowsApps;C:\Users\ENAA\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.1\bin;;.]
+26-Feb-2025 14:42:28.002 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 14:42:28.018 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [583] milliseconds
+26-Feb-2025 14:42:28.083 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2025 14:42:28.083 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.36]
+26-Feb-2025 14:42:28.098 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 14:42:28.458 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [360] ms
+26-Feb-2025 14:42:28.463 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 14:42:28.485 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [464] milliseconds
+26-Feb-2025 14:42:30.712 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DoctorRV_New]
+26-Feb-2025 14:42:30.730 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 14:42:30.777 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [46] ms
+26-Feb-2025 14:43:08.504 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Reloading context [/DoctorRV_New]
+26-Feb-2025 14:43:08.505 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/DoctorRV_New] has started
+26-Feb-2025 14:43:08.538 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/DoctorRV_New] is completed
+26-Feb-2025 14:43:10.808 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Reloading context [/DoctorRV_New]
+26-Feb-2025 14:43:10.809 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/DoctorRV_New] has started
+26-Feb-2025 14:43:10.893 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/DoctorRV_New] is completed
+26-Feb-2025 14:43:50.932 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Reloading context [/DoctorRV_New]
+26-Feb-2025 14:43:50.932 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/DoctorRV_New] has started
+26-Feb-2025 14:43:50.972 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/DoctorRV_New] is completed
+26-Feb-2025 14:43:58.599 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.reload Reloading context [/DoctorRV_New]
+26-Feb-2025 14:43:58.600 INFO [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/DoctorRV_New] has started
+26-Feb-2025 14:43:58.677 INFO [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/DoctorRV_New] is completed
+26-Feb-2025 14:44:40.489 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.98
+26-Feb-2025 14:44:40.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 5 2024 19:50:29 UTC
+26-Feb-2025 14:44:40.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.98.0
+26-Feb-2025 14:44:40.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+26-Feb-2025 14:44:40.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+26-Feb-2025 14:44:40.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Feb-2025 14:44:40.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-23
+26-Feb-2025 14:44:40.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.1+11-39
+26-Feb-2025 14:44:40.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Feb-2025 14:44:40.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 14:44:40.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 9.0
+26-Feb-2025 14:44:40.501 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+26-Feb-2025 14:44:40.501 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+26-Feb-2025 14:44:40.501 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+26-Feb-2025 14:44:40.501 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+26-Feb-2025 14:44:40.501 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+26-Feb-2025 14:44:40.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 9.0
+26-Feb-2025 14:44:40.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 14:44:40.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\temp
+26-Feb-2025 14:44:40.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\logging.properties
+26-Feb-2025 14:44:40.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2025 14:44:40.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\lib\idea_rt.jar=50353:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin
+26-Feb-2025 14:44:40.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+26-Feb-2025 14:44:40.503 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+26-Feb-2025 14:44:40.503 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+26-Feb-2025 14:44:40.507 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.1] using APR version [1.7.4].
+26-Feb-2025 14:44:40.507 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+26-Feb-2025 14:44:40.507 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+26-Feb-2025 14:44:40.513 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+26-Feb-2025 14:44:40.920 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 14:44:40.933 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to initialize component [Connector["http-nio-8089"]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1027)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:525)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:986)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:690)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:713)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:302)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:472)
+	Caused by: java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:565)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:344)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:301)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:268)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:223)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1373)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1386)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:663)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:80)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1025)
+		... 11 more
+26-Feb-2025 14:44:40.934 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [655] milliseconds
+26-Feb-2025 14:44:40.994 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2025 14:44:40.995 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.98]
+26-Feb-2025 14:44:41.008 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 14:44:41.019 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DoctorRV_New]
+26-Feb-2025 14:44:41.028 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 14:44:41.073 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [44] ms
+26-Feb-2025 14:44:41.125 WARNING [main] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [6.0]. Default version will be used.
+26-Feb-2025 14:44:41.373 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [364] ms
+26-Feb-2025 14:44:41.377 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [441] milliseconds
+26-Feb-2025 14:44:41.384 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8007] (base port [8007] and offset [0])
+	java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:565)
+		at java.base/sun.nio.ch.Net.bind(Net.java:554)
+		at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:389)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:276)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:537)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:829)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:777)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+26-Feb-2025 14:44:41.386 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 14:44:41.386 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Feb-2025 14:44:41.395 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 14:44:41.396 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 14:44:48.755 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DoctorRV_New]
+26-Feb-2025 14:44:48.763 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 14:44:48.788 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [25] ms
+26-Feb-2025 14:45:38.506 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 14:45:38.510 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Feb-2025 14:45:38.513 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 14:45:38.516 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 14:49:43.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.36
+26-Feb-2025 14:49:43.032 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 13 2025 13:13:30 UTC
+26-Feb-2025 14:49:43.032 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.36.0
+26-Feb-2025 14:49:43.033 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+26-Feb-2025 14:49:43.033 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+26-Feb-2025 14:49:43.033 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Feb-2025 14:49:43.033 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-23
+26-Feb-2025 14:49:43.033 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.1+11-39
+26-Feb-2025 14:49:43.033 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Feb-2025 14:49:43.033 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 14:49:43.033 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 14:49:43.045 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+26-Feb-2025 14:49:43.045 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+26-Feb-2025 14:49:43.045 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+26-Feb-2025 14:49:43.045 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+26-Feb-2025 14:49:43.046 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+26-Feb-2025 14:49:43.046 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 14:49:43.046 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 14:49:43.046 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\temp
+26-Feb-2025 14:49:43.046 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\logging.properties
+26-Feb-2025 14:49:43.046 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2025 14:49:43.046 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\lib\idea_rt.jar=50615:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin
+26-Feb-2025 14:49:43.046 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+26-Feb-2025 14:49:43.046 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+26-Feb-2025 14:49:43.046 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+26-Feb-2025 14:49:43.056 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-23\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-23\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ENAA\AppData\Local\Microsoft\WindowsApps;C:\Users\ENAA\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.1\bin;;.]
+26-Feb-2025 14:49:43.449 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 14:49:43.461 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to initialize component [Connector["http-nio-8089"]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1051)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:525)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:957)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:712)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:735)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:302)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:472)
+	Caused by: java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:565)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:344)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:301)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:239)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:194)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1304)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1317)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:633)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:82)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1049)
+		... 11 more
+26-Feb-2025 14:49:43.462 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [681] milliseconds
+26-Feb-2025 14:49:43.513 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2025 14:49:43.514 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.36]
+26-Feb-2025 14:49:43.528 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 14:49:43.929 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [400] ms
+26-Feb-2025 14:49:43.934 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [470] milliseconds
+26-Feb-2025 14:49:43.943 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8007] (base port [8007] and offset [0])
+	java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:565)
+		at java.base/sun.nio.ch.Net.bind(Net.java:554)
+		at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:389)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:276)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:533)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:851)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:799)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+26-Feb-2025 14:49:43.943 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 14:49:43.943 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Feb-2025 14:49:43.953 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 14:49:43.953 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 14:49:51.466 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DoctorRV_New]
+26-Feb-2025 14:49:51.490 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 14:49:51.590 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [100] ms
+26-Feb-2025 14:51:28.122 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.36
+26-Feb-2025 14:51:28.127 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 13 2025 13:13:30 UTC
+26-Feb-2025 14:51:28.127 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.36.0
+26-Feb-2025 14:51:28.128 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+26-Feb-2025 14:51:28.128 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+26-Feb-2025 14:51:28.128 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Feb-2025 14:51:28.128 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-23
+26-Feb-2025 14:51:28.128 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.1+11-39
+26-Feb-2025 14:51:28.128 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Feb-2025 14:51:28.128 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 14:51:28.129 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 14:51:28.141 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+26-Feb-2025 14:51:28.141 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+26-Feb-2025 14:51:28.141 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+26-Feb-2025 14:51:28.141 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+26-Feb-2025 14:51:28.142 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+26-Feb-2025 14:51:28.142 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 14:51:28.142 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 14:51:28.142 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\temp
+26-Feb-2025 14:51:28.142 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\logging.properties
+26-Feb-2025 14:51:28.142 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2025 14:51:28.142 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\lib\idea_rt.jar=50665:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin
+26-Feb-2025 14:51:28.142 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+26-Feb-2025 14:51:28.142 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+26-Feb-2025 14:51:28.142 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+26-Feb-2025 14:51:28.152 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-23\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-23\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ENAA\AppData\Local\Microsoft\WindowsApps;C:\Users\ENAA\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.1\bin;;.]
+26-Feb-2025 14:51:28.497 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 14:51:28.506 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to initialize component [Connector["http-nio-8089"]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1051)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:525)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:957)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:712)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:735)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:302)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:472)
+	Caused by: java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:565)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:344)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:301)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:239)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:194)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1304)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1317)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:633)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:82)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1049)
+		... 11 more
+26-Feb-2025 14:51:28.508 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [614] milliseconds
+26-Feb-2025 14:51:28.569 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2025 14:51:28.570 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.36]
+26-Feb-2025 14:51:28.583 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 14:51:28.983 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [399] ms
+26-Feb-2025 14:51:28.988 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [478] milliseconds
+26-Feb-2025 14:51:28.995 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8007] (base port [8007] and offset [0])
+	java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:565)
+		at java.base/sun.nio.ch.Net.bind(Net.java:554)
+		at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:389)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:276)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:533)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:851)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:799)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+26-Feb-2025 14:51:28.996 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 14:51:28.996 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Feb-2025 14:51:29.003 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 14:51:29.004 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 14:51:31.693 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DoctorRV_New]
+26-Feb-2025 14:51:31.718 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 14:51:31.810 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [90] ms
+26-Feb-2025 15:02:23.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.36
+26-Feb-2025 15:02:23.011 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 13 2025 13:13:30 UTC
+26-Feb-2025 15:02:23.011 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.36.0
+26-Feb-2025 15:02:23.011 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+26-Feb-2025 15:02:23.011 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+26-Feb-2025 15:02:23.012 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Feb-2025 15:02:23.012 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-23
+26-Feb-2025 15:02:23.012 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.1+11-39
+26-Feb-2025 15:02:23.012 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Feb-2025 15:02:23.013 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 15:02:23.013 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 15:02:23.025 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+26-Feb-2025 15:02:23.025 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+26-Feb-2025 15:02:23.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+26-Feb-2025 15:02:23.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+26-Feb-2025 15:02:23.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+26-Feb-2025 15:02:23.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 15:02:23.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 15:02:23.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\temp
+26-Feb-2025 15:02:23.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\logging.properties
+26-Feb-2025 15:02:23.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2025 15:02:23.027 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\lib\idea_rt.jar=51105:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin
+26-Feb-2025 15:02:23.027 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+26-Feb-2025 15:02:23.027 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+26-Feb-2025 15:02:23.027 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+26-Feb-2025 15:02:23.032 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-23\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-23\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ENAA\AppData\Local\Microsoft\WindowsApps;C:\Users\ENAA\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.1\bin;;.]
+26-Feb-2025 15:02:23.476 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 15:02:23.487 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to initialize component [Connector["http-nio-8089"]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1051)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:525)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:957)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:712)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:735)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:302)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:472)
+	Caused by: java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:565)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:344)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:301)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:239)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:194)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1304)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1317)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:633)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:82)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1049)
+		... 11 more
+26-Feb-2025 15:02:23.489 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [707] milliseconds
+26-Feb-2025 15:02:23.541 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2025 15:02:23.541 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.36]
+26-Feb-2025 15:02:23.554 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 15:02:23.927 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [372] ms
+26-Feb-2025 15:02:23.930 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [439] milliseconds
+26-Feb-2025 15:02:23.936 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8007] (base port [8007] and offset [0])
+	java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:565)
+		at java.base/sun.nio.ch.Net.bind(Net.java:554)
+		at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:389)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:276)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:533)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:851)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:799)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+26-Feb-2025 15:02:23.936 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 15:02:23.936 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Feb-2025 15:02:23.947 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 15:02:23.948 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 15:02:32.582 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DoctorRV_New]
+26-Feb-2025 15:02:32.609 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 15:02:32.730 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [120] ms
+26-Feb-2025 15:05:14.345 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.36
+26-Feb-2025 15:05:14.352 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 13 2025 13:13:30 UTC
+26-Feb-2025 15:05:14.352 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.36.0
+26-Feb-2025 15:05:14.352 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+26-Feb-2025 15:05:14.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+26-Feb-2025 15:05:14.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Feb-2025 15:05:14.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-23
+26-Feb-2025 15:05:14.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.1+11-39
+26-Feb-2025 15:05:14.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Feb-2025 15:05:14.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 15:05:14.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 15:05:14.366 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+26-Feb-2025 15:05:14.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+26-Feb-2025 15:05:14.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+26-Feb-2025 15:05:14.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+26-Feb-2025 15:05:14.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+26-Feb-2025 15:05:14.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 15:05:14.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 15:05:14.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\temp
+26-Feb-2025 15:05:14.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\logging.properties
+26-Feb-2025 15:05:14.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2025 15:05:14.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\lib\idea_rt.jar=51241:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin
+26-Feb-2025 15:05:14.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+26-Feb-2025 15:05:14.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+26-Feb-2025 15:05:14.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+26-Feb-2025 15:05:14.378 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-23\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-23\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ENAA\AppData\Local\Microsoft\WindowsApps;C:\Users\ENAA\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.1\bin;;.]
+26-Feb-2025 15:05:14.732 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 15:05:14.752 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [627] milliseconds
+26-Feb-2025 15:05:14.813 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2025 15:05:14.814 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.36]
+26-Feb-2025 15:05:14.831 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 15:05:15.222 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [390] ms
+26-Feb-2025 15:05:15.227 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 15:05:15.250 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [497] milliseconds
+26-Feb-2025 15:05:22.944 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DoctorRV_New]
+26-Feb-2025 15:05:22.967 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 15:05:23.071 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [103] ms
+26-Feb-2025 15:08:03.240 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.reload Reloading context [/DoctorRV_New]
+26-Feb-2025 15:08:03.241 INFO [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/DoctorRV_New] has started
+26-Feb-2025 15:08:03.337 INFO [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/DoctorRV_New] is completed
+26-Feb-2025 15:08:05.421 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.reload Reloading context [/DoctorRV_New]
+26-Feb-2025 15:08:05.422 INFO [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/DoctorRV_New] has started
+26-Feb-2025 15:08:05.456 INFO [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/DoctorRV_New] is completed
+26-Feb-2025 15:08:32.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.98
+26-Feb-2025 15:08:32.796 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 5 2024 19:50:29 UTC
+26-Feb-2025 15:08:32.796 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.98.0
+26-Feb-2025 15:08:32.796 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+26-Feb-2025 15:08:32.796 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+26-Feb-2025 15:08:32.796 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Feb-2025 15:08:32.796 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-23
+26-Feb-2025 15:08:32.796 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.1+11-39
+26-Feb-2025 15:08:32.796 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Feb-2025 15:08:32.796 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 15:08:32.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 9.0
+26-Feb-2025 15:08:32.805 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+26-Feb-2025 15:08:32.805 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+26-Feb-2025 15:08:32.805 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+26-Feb-2025 15:08:32.805 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+26-Feb-2025 15:08:32.805 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+26-Feb-2025 15:08:32.806 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 9.0
+26-Feb-2025 15:08:32.806 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 15:08:32.806 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\temp
+26-Feb-2025 15:08:32.806 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\logging.properties
+26-Feb-2025 15:08:32.806 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2025 15:08:32.806 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\lib\idea_rt.jar=51384:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin
+26-Feb-2025 15:08:32.806 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+26-Feb-2025 15:08:32.806 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+26-Feb-2025 15:08:32.806 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+26-Feb-2025 15:08:32.809 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.1] using APR version [1.7.4].
+26-Feb-2025 15:08:32.810 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+26-Feb-2025 15:08:32.810 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+26-Feb-2025 15:08:32.816 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+26-Feb-2025 15:08:33.258 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 15:08:33.270 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to initialize component [Connector["http-nio-8089"]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1027)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:525)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:986)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:690)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:713)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:302)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:472)
+	Caused by: java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:565)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:344)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:301)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:268)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:223)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1373)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1386)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:663)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:80)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1025)
+		... 11 more
+26-Feb-2025 15:08:33.272 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [682] milliseconds
+26-Feb-2025 15:08:33.330 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2025 15:08:33.331 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.98]
+26-Feb-2025 15:08:33.342 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 15:08:33.367 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DoctorRV_New]
+26-Feb-2025 15:08:33.389 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 15:08:33.445 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [57] ms
+26-Feb-2025 15:08:33.448 WARNING [main] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [6.0]. Default version will be used.
+26-Feb-2025 15:08:33.656 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [314] ms
+26-Feb-2025 15:08:33.662 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [389] milliseconds
+26-Feb-2025 15:08:33.669 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8007] (base port [8007] and offset [0])
+	java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:565)
+		at java.base/sun.nio.ch.Net.bind(Net.java:554)
+		at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:389)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:276)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:537)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:829)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:777)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+26-Feb-2025 15:08:33.669 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 15:08:33.670 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Feb-2025 15:08:33.678 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 15:08:33.679 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 15:08:35.496 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DoctorRV_New]
+26-Feb-2025 15:08:35.506 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 15:08:35.535 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [28] ms
+26-Feb-2025 15:10:08.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.36
+26-Feb-2025 15:10:08.038 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 13 2025 13:13:30 UTC
+26-Feb-2025 15:10:08.038 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.36.0
+26-Feb-2025 15:10:08.038 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+26-Feb-2025 15:10:08.039 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+26-Feb-2025 15:10:08.039 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Feb-2025 15:10:08.039 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-23
+26-Feb-2025 15:10:08.039 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.1+11-39
+26-Feb-2025 15:10:08.039 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Feb-2025 15:10:08.039 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 15:10:08.039 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 15:10:08.049 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+26-Feb-2025 15:10:08.049 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+26-Feb-2025 15:10:08.049 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+26-Feb-2025 15:10:08.049 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+26-Feb-2025 15:10:08.049 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+26-Feb-2025 15:10:08.049 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 15:10:08.050 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 15:10:08.050 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\temp
+26-Feb-2025 15:10:08.050 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\logging.properties
+26-Feb-2025 15:10:08.050 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2025 15:10:08.050 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\lib\idea_rt.jar=51409:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin
+26-Feb-2025 15:10:08.050 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+26-Feb-2025 15:10:08.050 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+26-Feb-2025 15:10:08.050 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+26-Feb-2025 15:10:08.054 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-23\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-23\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ENAA\AppData\Local\Microsoft\WindowsApps;C:\Users\ENAA\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.1\bin;;.]
+26-Feb-2025 15:10:08.390 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 15:10:08.401 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to initialize component [Connector["http-nio-8089"]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1051)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:525)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:957)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:712)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:735)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:302)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:472)
+	Caused by: java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:565)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:344)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:301)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:239)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:194)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1304)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1317)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:633)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:82)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1049)
+		... 11 more
+26-Feb-2025 15:10:08.403 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [564] milliseconds
+26-Feb-2025 15:10:08.472 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2025 15:10:08.472 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.36]
+26-Feb-2025 15:10:08.488 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 15:10:09.744 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Feb-2025 15:10:09.835 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [1,346] ms
+26-Feb-2025 15:10:09.841 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1436] milliseconds
+26-Feb-2025 15:10:09.849 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8007] (base port [8007] and offset [0])
+	java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:565)
+		at java.base/sun.nio.ch.Net.bind(Net.java:554)
+		at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:389)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:276)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:533)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:851)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:799)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+26-Feb-2025 15:10:09.850 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 15:10:09.850 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Feb-2025 15:10:09.860 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 15:10:09.861 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 15:10:13.590 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DoctorRV_New]
+26-Feb-2025 15:10:13.611 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 15:10:15.628 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DoctorRV_New]
+26-Feb-2025 15:10:15.638 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 15:10:16.553 INFO [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Feb-2025 15:10:16.597 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [959] ms
+26-Feb-2025 15:10:17.028 INFO [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Feb-2025 15:10:17.114 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [3,503] ms
+26-Feb-2025 15:10:58.511 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.36
+26-Feb-2025 15:10:58.516 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 13 2025 13:13:30 UTC
+26-Feb-2025 15:10:58.516 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.36.0
+26-Feb-2025 15:10:58.516 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+26-Feb-2025 15:10:58.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+26-Feb-2025 15:10:58.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Feb-2025 15:10:58.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-23
+26-Feb-2025 15:10:58.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.1+11-39
+26-Feb-2025 15:10:58.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Feb-2025 15:10:58.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 15:10:58.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 15:10:58.525 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+26-Feb-2025 15:10:58.525 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+26-Feb-2025 15:10:58.525 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+26-Feb-2025 15:10:58.525 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+26-Feb-2025 15:10:58.525 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+26-Feb-2025 15:10:58.525 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 15:10:58.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 15:10:58.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\temp
+26-Feb-2025 15:10:58.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\logging.properties
+26-Feb-2025 15:10:58.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2025 15:10:58.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\lib\idea_rt.jar=51492:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin
+26-Feb-2025 15:10:58.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+26-Feb-2025 15:10:58.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+26-Feb-2025 15:10:58.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+26-Feb-2025 15:10:58.532 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-23\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-23\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ENAA\AppData\Local\Microsoft\WindowsApps;C:\Users\ENAA\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.1\bin;;.]
+26-Feb-2025 15:10:58.874 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 15:10:58.888 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to initialize component [Connector["http-nio-8089"]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1051)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:525)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:957)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:712)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:735)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:302)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:472)
+	Caused by: java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:565)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:344)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:301)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:239)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:194)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1304)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1317)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:633)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:82)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1049)
+		... 11 more
+26-Feb-2025 15:10:58.889 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [575] milliseconds
+26-Feb-2025 15:10:58.957 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2025 15:10:58.957 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.36]
+26-Feb-2025 15:10:58.970 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 15:11:00.118 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Feb-2025 15:11:00.200 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [1,230] ms
+26-Feb-2025 15:11:00.205 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1314] milliseconds
+26-Feb-2025 15:11:00.210 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8007] (base port [8007] and offset [0])
+	java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:565)
+		at java.base/sun.nio.ch.Net.bind(Net.java:554)
+		at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:389)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:276)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:533)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:851)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:799)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+26-Feb-2025 15:11:00.210 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 15:11:00.210 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Feb-2025 15:11:00.220 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 15:11:00.221 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 15:11:06.650 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DoctorRV_New]
+26-Feb-2025 15:11:06.660 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 15:11:07.166 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DoctorRV_New]
+26-Feb-2025 15:11:07.183 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 15:11:07.414 INFO [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Feb-2025 15:11:07.475 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [815] ms
+26-Feb-2025 15:11:09.460 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.36
+26-Feb-2025 15:11:09.465 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 13 2025 13:13:30 UTC
+26-Feb-2025 15:11:09.465 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.36.0
+26-Feb-2025 15:11:09.465 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+26-Feb-2025 15:11:09.465 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+26-Feb-2025 15:11:09.467 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Feb-2025 15:11:09.467 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-23
+26-Feb-2025 15:11:09.467 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.1+11-39
+26-Feb-2025 15:11:09.467 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Feb-2025 15:11:09.467 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 15:11:09.467 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 15:11:09.482 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+26-Feb-2025 15:11:09.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+26-Feb-2025 15:11:09.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+26-Feb-2025 15:11:09.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+26-Feb-2025 15:11:09.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+26-Feb-2025 15:11:09.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 15:11:09.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 15:11:09.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\temp
+26-Feb-2025 15:11:09.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\logging.properties
+26-Feb-2025 15:11:09.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2025 15:11:09.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\lib\idea_rt.jar=51496:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin
+26-Feb-2025 15:11:09.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+26-Feb-2025 15:11:09.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+26-Feb-2025 15:11:09.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+26-Feb-2025 15:11:09.496 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-23\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-23\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ENAA\AppData\Local\Microsoft\WindowsApps;C:\Users\ENAA\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.1\bin;;.]
+26-Feb-2025 15:11:09.535 INFO [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Feb-2025 15:11:09.640 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [2,456] ms
+26-Feb-2025 15:11:09.873 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 15:11:09.883 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to initialize component [Connector["http-nio-8089"]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1051)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:525)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:957)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:712)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:735)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:302)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:472)
+	Caused by: java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:565)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:344)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:301)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:239)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:194)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1304)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1317)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:633)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:82)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1049)
+		... 11 more
+26-Feb-2025 15:11:09.885 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [628] milliseconds
+26-Feb-2025 15:11:09.953 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2025 15:11:09.953 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.36]
+26-Feb-2025 15:11:09.969 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 15:11:11.201 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Feb-2025 15:11:11.276 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [1,307] ms
+26-Feb-2025 15:11:11.280 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1393] milliseconds
+26-Feb-2025 15:11:11.285 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8007] (base port [8007] and offset [0])
+	java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:565)
+		at java.base/sun.nio.ch.Net.bind(Net.java:554)
+		at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:389)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:276)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:533)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:851)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:799)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+26-Feb-2025 15:11:11.285 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 15:11:11.285 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Feb-2025 15:11:11.294 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 15:11:11.295 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8089"]
+26-Feb-2025 15:11:17.478 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DoctorRV_New]
+26-Feb-2025 15:11:17.484 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 15:11:18.228 INFO [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Feb-2025 15:11:18.265 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [781] ms
+26-Feb-2025 15:11:19.646 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DoctorRV_New]
+26-Feb-2025 15:11:19.668 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 15:11:23.527 INFO [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Feb-2025 15:11:23.624 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [3,957] ms
+26-Feb-2025 15:12:11.613 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.36
+26-Feb-2025 15:12:11.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 13 2025 13:13:30 UTC
+26-Feb-2025 15:12:11.620 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.36.0
+26-Feb-2025 15:12:11.620 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+26-Feb-2025 15:12:11.620 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+26-Feb-2025 15:12:11.621 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Feb-2025 15:12:11.621 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-23
+26-Feb-2025 15:12:11.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.1+11-39
+26-Feb-2025 15:12:11.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Feb-2025 15:12:11.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 15:12:11.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 15:12:11.634 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+26-Feb-2025 15:12:11.635 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+26-Feb-2025 15:12:11.635 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+26-Feb-2025 15:12:11.635 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+26-Feb-2025 15:12:11.635 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+26-Feb-2025 15:12:11.635 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 15:12:11.635 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 15:12:11.635 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\temp
+26-Feb-2025 15:12:11.635 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\logging.properties
+26-Feb-2025 15:12:11.635 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2025 15:12:11.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\lib\idea_rt.jar=51581:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin
+26-Feb-2025 15:12:11.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+26-Feb-2025 15:12:11.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+26-Feb-2025 15:12:11.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+26-Feb-2025 15:12:11.643 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-23\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-23\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ENAA\AppData\Local\Microsoft\WindowsApps;C:\Users\ENAA\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.1\bin;;.]
+26-Feb-2025 15:12:12.001 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 15:12:12.013 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to initialize component [Connector["http-nio-8087"]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1051)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:525)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:957)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:712)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:735)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:302)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:472)
+	Caused by: java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:565)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:344)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:301)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:239)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:194)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1304)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1317)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:633)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:82)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1049)
+		... 11 more
+26-Feb-2025 15:12:12.014 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [594] milliseconds
+26-Feb-2025 15:12:12.086 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2025 15:12:12.087 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.36]
+26-Feb-2025 15:12:12.104 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 15:12:13.217 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Feb-2025 15:12:13.292 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [1,187] ms
+26-Feb-2025 15:12:13.294 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1277] milliseconds
+26-Feb-2025 15:12:13.298 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8007] (base port [8007] and offset [0])
+	java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:565)
+		at java.base/sun.nio.ch.Net.bind(Net.java:554)
+		at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:389)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:276)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:533)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:851)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:799)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+26-Feb-2025 15:12:13.299 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 15:12:13.299 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Feb-2025 15:12:13.305 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 15:12:13.306 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 15:12:13.674 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DoctorRV_New]
+26-Feb-2025 15:12:13.692 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 15:12:16.701 INFO [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Feb-2025 15:12:16.852 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [3,161] ms
+26-Feb-2025 15:12:18.328 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DoctorRV_New]
+26-Feb-2025 15:12:18.337 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 15:12:19.012 INFO [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Feb-2025 15:12:19.048 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [711] ms
+26-Feb-2025 15:12:24.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.36
+26-Feb-2025 15:12:24.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 13 2025 13:13:30 UTC
+26-Feb-2025 15:12:24.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.36.0
+26-Feb-2025 15:12:24.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+26-Feb-2025 15:12:24.503 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+26-Feb-2025 15:12:24.503 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Feb-2025 15:12:24.503 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-23
+26-Feb-2025 15:12:24.503 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.1+11-39
+26-Feb-2025 15:12:24.503 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Feb-2025 15:12:24.504 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 15:12:24.504 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 15:12:24.514 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+26-Feb-2025 15:12:24.514 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+26-Feb-2025 15:12:24.514 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+26-Feb-2025 15:12:24.515 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+26-Feb-2025 15:12:24.515 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+26-Feb-2025 15:12:24.515 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 15:12:24.515 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 15:12:24.515 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\temp
+26-Feb-2025 15:12:24.515 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\logging.properties
+26-Feb-2025 15:12:24.515 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2025 15:12:24.515 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\lib\idea_rt.jar=51592:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin
+26-Feb-2025 15:12:24.515 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+26-Feb-2025 15:12:24.515 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+26-Feb-2025 15:12:24.515 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+26-Feb-2025 15:12:24.519 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-23\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-23\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ENAA\AppData\Local\Microsoft\WindowsApps;C:\Users\ENAA\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.1\bin;;.]
+26-Feb-2025 15:12:24.843 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 15:12:24.853 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to initialize component [Connector["http-nio-8087"]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1051)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:525)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:957)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:712)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:735)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:302)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:472)
+	Caused by: java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:565)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:344)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:301)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:239)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:194)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1304)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1317)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:633)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:82)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1049)
+		... 11 more
+26-Feb-2025 15:12:24.854 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [547] milliseconds
+26-Feb-2025 15:12:24.919 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2025 15:12:24.920 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.36]
+26-Feb-2025 15:12:24.937 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 15:12:26.118 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Feb-2025 15:12:26.217 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [1,279] ms
+26-Feb-2025 15:12:26.222 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1366] milliseconds
+26-Feb-2025 15:12:26.862 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DoctorRV_New]
+26-Feb-2025 15:12:26.877 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 15:12:29.054 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DoctorRV_New]
+26-Feb-2025 15:12:29.063 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 15:12:29.919 INFO [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Feb-2025 15:12:29.974 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [911] ms
+26-Feb-2025 15:12:30.210 INFO [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Feb-2025 15:12:30.303 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [3,426] ms
+26-Feb-2025 15:13:53.457 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 15:13:53.462 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Feb-2025 15:13:53.465 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 15:13:53.469 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 15:13:53.469 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Feb-2025 15:13:53.469 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 15:13:53.479 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 15:13:53.480 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 15:13:58.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.36
+26-Feb-2025 15:13:58.416 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 13 2025 13:13:30 UTC
+26-Feb-2025 15:13:58.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.36.0
+26-Feb-2025 15:13:58.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+26-Feb-2025 15:13:58.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+26-Feb-2025 15:13:58.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Feb-2025 15:13:58.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-23
+26-Feb-2025 15:13:58.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.1+11-39
+26-Feb-2025 15:13:58.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Feb-2025 15:13:58.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 15:13:58.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 15:13:58.426 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+26-Feb-2025 15:13:58.426 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+26-Feb-2025 15:13:58.426 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+26-Feb-2025 15:13:58.426 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+26-Feb-2025 15:13:58.426 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+26-Feb-2025 15:13:58.426 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 10.1
+26-Feb-2025 15:13:58.426 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New
+26-Feb-2025 15:13:58.426 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\temp
+26-Feb-2025 15:13:58.427 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\logging.properties
+26-Feb-2025 15:13:58.427 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Feb-2025 15:13:58.427 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\lib\idea_rt.jar=51717:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin
+26-Feb-2025 15:13:58.427 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+26-Feb-2025 15:13:58.427 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+26-Feb-2025 15:13:58.427 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+26-Feb-2025 15:13:58.431 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-23\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-23\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ENAA\AppData\Local\Microsoft\WindowsApps;C:\Users\ENAA\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.1\bin;;.]
+26-Feb-2025 15:13:58.776 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 15:13:58.800 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [591] milliseconds
+26-Feb-2025 15:13:58.867 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Feb-2025 15:13:58.868 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.36]
+26-Feb-2025 15:13:58.884 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 15:14:00.132 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Feb-2025 15:14:00.204 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [1,319] ms
+26-Feb-2025 15:14:00.207 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 15:14:00.230 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1427] milliseconds
+26-Feb-2025 15:14:00.417 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DoctorRV_New]
+26-Feb-2025 15:14:00.440 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml]
+26-Feb-2025 15:14:03.300 INFO [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Feb-2025 15:14:03.371 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ENAA\OneDrive\Desktop\DoctorRV-Login-Register\DoctorRV_New\conf\Catalina\localhost\DoctorRV_New.xml] has finished in [2,931] ms
+26-Feb-2025 15:18:31.850 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 15:18:31.855 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Feb-2025 15:18:31.863 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8087"]
+26-Feb-2025 15:18:31.866 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8087"]
