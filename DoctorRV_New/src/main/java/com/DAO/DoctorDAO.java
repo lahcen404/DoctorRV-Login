@@ -12,7 +12,7 @@ public class DoctorDAO {
         con = DBConnection.getConnection();
     }
 
-    public boolean registerDoctor(Doctor doctor) {
+    public void registerDoctor(Doctor doctor) {
 
         try {
             String query = "insert into doctors(name,email,password,speciality) values(?,?,?,?)";
@@ -21,11 +21,11 @@ public class DoctorDAO {
             stmnt.setString(2, doctor.getEmail());
             stmnt.setString(3, doctor.getPassword());
             stmnt.setString(4, doctor.getSpeciality());
-
-           return  stmnt.executeUpdate() > 0; // reeturn true if insertion was successful
+            stmnt.executeUpdate();
+          // return  stmnt.executeUpdate() > 0; // reeturn true if insertion was successful
         } catch (Exception e) {
             e.printStackTrace();
-            return false;
+           // return false;
 
         }
     }

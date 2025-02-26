@@ -23,9 +23,10 @@
                 <label class="block text-green-800 font-semibold mb-1 text-left">Email</label>
                 <input type="email" name="email" class="w-full px-4 py-2 border border-green-400 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-600 bg-green-50" required>
             </div>
+
             <div>
-                <label class="block text-green-800 font-semibold mb-1 text-left">Telephone</label>
-                <input type="tel" name="telephone" class="w-full px-4 py-2 border border-green-400 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-600 bg-green-50" required>
+                <label class="block text-green-800 font-semibold mb-1 text-left">Speciality</label>
+                <input type="text" name="speciality" class="w-full px-4 py-2 border border-green-400 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-600 bg-green-50" required>
             </div>
             <div>
                 <label class="block text-green-800 font-semibold mb-1 text-left">Password</label>

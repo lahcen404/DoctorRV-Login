@@ -33,16 +33,12 @@ public class DoctorRegisterServlet extends HttpServlet {
         String name = request.getParameter("name");
         String email = request.getParameter("email");
         String password = request.getParameter("password");
-        String specialty = request.getParameter("speciality");
+        String speciality = request.getParameter("speciality");
 
-        Doctor doctor = new Doctor(name, email, password, specialty);
+        Doctor doctor = new Doctor(name, email, password, speciality);
         DoctorDAO doctorDAO = new DoctorDAO();
 
-//        if (doctorDAO.getDoctorByEmail(email) != null) {
-//            request.setAttribute("message", "Email already exists!");
-//            request.getRequestDispatcher("doctorRegister.jsp").forward(request, response);
-//            return;
-//        }
+//
 
         doctorDAO.registerDoctor(doctor);
         response.sendRedirect("Login.jsp");
