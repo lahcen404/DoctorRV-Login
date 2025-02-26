@@ -12,7 +12,7 @@
             <img src="./imgs/DoctorRV.png" alt="Logo" class="w-16 h-16 mx-auto mb-4">
             <h2 class="text-3xl font-bold text-blue-700 mb-6">Doctor Portal</h2>
             
-            <a href="Register-Patient.jsp" class="w-full block bg-blue-700 text-white py-3 rounded-lg font-semibold hover:bg-blue-800 transition mb-4">First Time? Register</a>
+            <a href="Register-Doctor.jsp" class="w-full block bg-blue-700 text-white py-3 rounded-lg font-semibold hover:bg-blue-800 transition mb-4">First Time? Register</a>
             
             <a href="Login.jsp" class="w-full block bg-green-600 text-white py-3 rounded-lg font-semibold hover:bg-green-700 transition">Already Registered? Log In</a>
         </div>
