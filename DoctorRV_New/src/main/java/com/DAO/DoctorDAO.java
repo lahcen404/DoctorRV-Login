@@ -31,12 +31,12 @@ public class DoctorDAO {
     }
 
 
-    public Doctor validateDoctor(String name, String password) {
+    public Doctor validateDoctor(String email, String password) {
         Doctor doctor = null;
         try (Connection conn = DBConnection.getConnection()) {
-            String sql = "SELECT * FROM doctors WHERE name = ? AND password = ?";
+            String sql = "SELECT * FROM doctors WHERE email = ? AND password = ?";
             PreparedStatement stmt = conn.prepareStatement(sql);
-            stmt.setString(1, name);
+            stmt.setString(1, email);
             stmt.setString(2, password);
             ResultSet rs = stmt.executeQuery();
 
@@ -50,4 +50,5 @@ public class DoctorDAO {
         }
         return doctor;
     }
+
 }

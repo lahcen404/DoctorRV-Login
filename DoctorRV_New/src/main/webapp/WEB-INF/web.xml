@@ -26,6 +26,9 @@
         <url-pattern>/PatientRegister</url-pattern>
     </servlet-mapping>
 
+    <session-config>
+        <session-timeout>30</session-timeout>  <!-- Timeout in minutes -->
+    </session-config>
  <welcome-file-list>
      <welcome-file>Home.jsp</welcome-file>
  </welcome-file-list>

@@ -12,7 +12,7 @@
         <div class="bg-white shadow-xl rounded-lg p-6">
             <div class="flex items-center justify-between mb-6">
                 <h2 class="text-3xl font-bold text-blue-700">Doctor Dashboard</h2>
-                <a href="login.jsp" class="bg-red-500 text-white px-4 py-2 rounded-lg hover:bg-red-600">Logout</a>
+                <a href="Login.jsp" class="bg-red-500 text-white px-4 py-2 rounded-lg hover:bg-red-600">Logout</a>
             </div>
 
             <h3 class="text-xl font-semibold text-blue-600 mb-4">Upcoming Appointments</h3>

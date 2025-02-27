@@ -16,7 +16,7 @@ import java.io.IOException;
 public class LoginServlet extends HttpServlet {
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        String username = request.getParameter("username");
+        String email = request.getParameter("email");
         String password = request.getParameter("password");
 
         DoctorDAO doctorDAO = new DoctorDAO();
@@ -24,24 +24,22 @@ public class LoginServlet extends HttpServlet {
 
         HttpSession session = request.getSession();
 
-        // Check if the username belongs to a doctor
-        Doctor doctor = doctorDAO.validateDoctor(username, password);
+        Doctor doctor = doctorDAO.validateDoctor(email, password);
         if (doctor != null) {
             session.setAttribute("user", doctor);
             response.sendRedirect("doctorDashboard.jsp");
-            return;  // Exit after redirect
+            return;
         }
 
-        // Check if the username belongs to a patient
-        Patient patient = patientDAO.validatePatient(username, password);
+        Patient patient = patientDAO.validatePatient(email, password);
         if (patient != null) {
             session.setAttribute("user", patient);
             response.sendRedirect("patientDashboard.jsp");
-            return;  // Exit after redirect
+            return;
         }
 
         // If no match was found for either, show error
-        request.setAttribute("errorMessage", "Invalid username or password!");
+        request.setAttribute("errorMessage", "Invalid email or password!");
         request.getRequestDispatcher("Login.jsp").forward(request, response);
     }
 }

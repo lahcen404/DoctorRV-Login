@@ -15,10 +15,17 @@
             <h2 class="text-3xl font-bold text-blue-700">Login</h2>
         </div>
         <!-- Form will now POST to LoginServlet -->
+
+        <!-- Display error message if present -->
+        <% if (request.getAttribute("errorMessage") != null) { %>
+        <p style="color: red;"><%= request.getAttribute("errorMessage") %></p>
+        <% } %>
+
+
         <form action="LoginServlet" method="post" class="space-y-4">
             <div>
-                <label class="block text-blue-800 font-semibold mb-1 text-left">Username</label>
-                <input type="text" name="username" class="w-full px-4 py-2 border border-blue-400 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-600 bg-blue-50" required>
+                <label class="block text-blue-800 font-semibold mb-1 text-left">Email</label>
+                <input type="text" name="email" class="w-full px-4 py-2 border border-blue-400 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-600 bg-blue-50" required>
             </div>
             <div>
                 <label class="block text-blue-800 font-semibold mb-1 text-left">Password</label>
