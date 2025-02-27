@@ -14,10 +14,10 @@
             <img src="./imgs/DoctorRV.png" alt="Logo" class="w-12 h-12">
             <h2 class="text-3xl font-bold text-green-700">Register Patient</h2>
         </div>
-        <form class="space-y-4" action="register" method="post">
+        <form class="space-y-4" action="patientRegister" method="post">
             <div>
                 <label class="block text-green-800 font-semibold mb-1 text-left">Username</label>
-                <input type="text" name="username" class="w-full px-4 py-2 border border-green-400 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-600 bg-green-50" required>
+                <input type="text" name="name" class="w-full px-4 py-2 border border-green-400 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-600 bg-green-50" required>
             </div>
             <div>
                 <label class="block text-green-800 font-semibold mb-1 text-left">Email</label>
@@ -25,7 +25,7 @@
             </div>
             <div>
                 <label class="block text-green-800 font-semibold mb-1 text-left">Telephone</label>
-                <input type="tel" name="telephone" class="w-full px-4 py-2 border border-green-400 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-600 bg-green-50" required>
+                <input type="tel" name="phone" class="w-full px-4 py-2 border border-green-400 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-600 bg-green-50" required>
             </div>
             <div>
                 <label class="block text-green-800 font-semibold mb-1 text-left">Password</label>
