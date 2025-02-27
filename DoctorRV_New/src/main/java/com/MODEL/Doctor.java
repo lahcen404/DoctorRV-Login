@@ -24,6 +24,10 @@ public class Doctor {
         this.speciality = speciality;
     }
 
+    public Doctor() {
+
+    }
+
     public int getId() {
         return id;
     }

@@ -30,4 +30,24 @@ public class DoctorDAO {
         }
     }
 
+
+    public Doctor validateDoctor(String name, String password) {
+        Doctor doctor = null;
+        try (Connection conn = DBConnection.getConnection()) {
+            String sql = "SELECT * FROM doctors WHERE name = ? AND password = ?";
+            PreparedStatement stmt = conn.prepareStatement(sql);
+            stmt.setString(1, name);
+            stmt.setString(2, password);
+            ResultSet rs = stmt.executeQuery();
+
+            if (rs.next()) {
+                doctor = new Doctor();
+                doctor.setId(rs.getInt("id"));
+                doctor.setName(rs.getString("name"));
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return doctor;
+    }
 }

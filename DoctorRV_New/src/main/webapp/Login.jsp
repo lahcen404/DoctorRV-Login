@@ -6,17 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <script>
-        function redirectUser(event) {
-            event.preventDefault();
-            var role = document.getElementById("role").value;
-            if (role === "doctor") {
-                window.location.href = "doctorDashboard.jsp";
-            } else {
-                window.location.href = "patientDashboard.jsp";
-            }
-        }
-    </script>
 </head>
 <body class="bg-blue-100 flex items-center justify-center min-h-screen">
 <div class="container mx-auto flex items-center justify-center">
@@ -25,8 +14,8 @@
             <img src="./imgs/DoctorRV.png" alt="Logo" class="w-12 h-12">
             <h2 class="text-3xl font-bold text-blue-700">Login</h2>
         </div>
-        <form class="space-y-4" onsubmit="redirectUser(event)">
-
+        <!-- Form will now POST to LoginServlet -->
+        <form action="LoginServlet" method="post" class="space-y-4">
             <div>
                 <label class="block text-blue-800 font-semibold mb-1 text-left">Username</label>
                 <input type="text" name="username" class="w-full px-4 py-2 border border-blue-400 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-600 bg-blue-50" required>
@@ -36,5 +25,10 @@
                 <input type="password" name="password" class="w-full px-4 py-2 border border-blue-400 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-600 bg-blue-50" required>
             </div>
             <button type="submit" class="w-full py-3 rounded-lg font-semibold text-white bg-gradient-to-r from-blue-500 to-blue-600 hover:from-blue-600 hover:to-blue-700 transition transform hover:scale-105 shadow-md">Login</button>
-            <a href="Register-Patient.jsp" class="w-full text-center block border-2 border-green-700 text-green-700 py-3 rounded-lg font-semibold hover:bg-green-700 hover:text-white transition">Register</a>
-            <a href="Home.jsp" class="w-full
+        </form>
+        <a href="Register-Patient.jsp" class="w-full text-center block border-2 border-green-700 text-green-700 py-3 rounded-lg font-semibold hover:bg-green-700 hover:text-white transition">Register</a>
+        <a href="Home.jsp" class="w-full text-center block border-2 border-gray-700 text-gray-700 py-3 rounded-lg font-semibold hover:bg-gray-700 hover:text-white transition">Home</a>
+    </div>
+</div>
+</body>
+</html>
