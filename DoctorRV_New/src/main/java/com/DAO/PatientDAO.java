@@ -33,7 +33,8 @@ public class PatientDAO {
 
     public Patient validatePatient(String email, String password) {
         Patient patient = null;
-        try (Connection conn = DBConnection.getConnection()) {
+
+        try (Connection conn = DBConnection.getConnection()) { // Always open a new connection
             String sql = "SELECT * FROM patients WHERE email = ? AND password = ?";
             PreparedStatement stmt = conn.prepareStatement(sql);
             stmt.setString(1, email);
@@ -48,7 +49,9 @@ public class PatientDAO {
         } catch (Exception e) {
             e.printStackTrace();
         }
+
         return patient;
     }
+
 
 }

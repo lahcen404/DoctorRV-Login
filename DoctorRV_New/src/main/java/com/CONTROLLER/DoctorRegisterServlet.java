@@ -34,7 +34,7 @@ public class DoctorRegisterServlet extends HttpServlet {
         String email = request.getParameter("email");
         String password = request.getParameter("password");
         String speciality = request.getParameter("speciality");
-
+        
         Doctor doctor = new Doctor(name, email, password, speciality);
         DoctorDAO doctorDAO = new DoctorDAO();
 

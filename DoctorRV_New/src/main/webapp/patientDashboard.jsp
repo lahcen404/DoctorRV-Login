@@ -1,4 +1,5 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,6 +15,8 @@
                 <div class="flex items-center space-x-4">
                     <img src="./imgs/DoctorRV.png" alt="Logo" class="w-12 h-12">
                     <h1 class="text-3xl font-bold text-blue-700">Mes Rendez-Vous</h1>
+                    <a href="LogoutServlet"  class="bg-red-500 text-white px-4 py-2 rounded-lg hover:bg-red-600">Logout</a>
+
                 </div>
                 <a href="bookAppointment.jsp" class="bg-blue-500 text-white py-2 px-4 rounded-lg font-semibold hover:bg-blue-600 transition">
                     Prendre un Rendez-Vous
